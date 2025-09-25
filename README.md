@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🌐 [View Live Page]()  
+🌐 [View Live Page](https://recipe-page-frontend-mentorr.netlify.app/)  
 
 </div>
 
