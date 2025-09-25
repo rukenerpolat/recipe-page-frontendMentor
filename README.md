@@ -19,7 +19,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 | Mobile                                    | Desktop                                   |
 | ----------------------------------------- | ----------------------------------------- |
 | ![mobile](./assets/images/recipe-ss2.png) | ![desktop](./assets/images/recipe-ss.png) |
-|                                                                                       |
  
 
 ### Project Structure
@@ -38,8 +37,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 │
 └── README.md
 ```
-
----
 
 <br>
 
