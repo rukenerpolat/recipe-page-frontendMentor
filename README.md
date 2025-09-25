@@ -14,7 +14,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ✦ CSS3  
 ✦ Flexbox    
 ✦ Responsive Web Design (Media Queries)   
-✦  Google Fonts: [Outfit](https://fonts.google.com/specimen/Outfit) & [Young Serif](https://fonts.google.com/specimen/Young+Serif)        
+✦  Google Fonts: [Outfit](https://fonts.google.com/specimen/Outfit) & [Young Serif](https://fonts.google.com/specimen/Young+Serif)     
+
+<br>
 
 | Mobile                                    | Desktop                                   |
 | ----------------------------------------- | ----------------------------------------- |
